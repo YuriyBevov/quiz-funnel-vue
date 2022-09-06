@@ -1,0 +1,30 @@
+//fonts
+$font_reg:          'Poppins-Regular';
+$font_reg-med:      'Poppins-Medium';
+$font_sec:         'Merriweather-Regular';
+$font_sec-bold:    'Merriweather-Bold';
+$font_sec-extra:   'Merriweather-Black';
+$font_mono:         'Gilroy-Medium';
+$font_mono-reg:     'Gilroy-Regular';
+
+// animation
+$tr_rules: 0.2s ease;
+
+// widths
+$max_width: 768px;
+$min_width: 320px;
+
+// colors
+
+$primary:        #1b1b1b;
+$col_body-bg:    #ffffff;
+$col_white:      #ffffff;
+$col_black:      #1F2432;
+$col_lightblack: #2C3242;
+$col_gray:       #90A2B5;
+$col_lightgray:  #797B86;
+$col_blue:       #0069B4;
+
+// retina
+$retina-dpi: 144dpi;
+$retina-dppx: 1.5dppx;

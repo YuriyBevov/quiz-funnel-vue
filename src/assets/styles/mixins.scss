@@ -1,0 +1,6 @@
+@mixin container() {
+    margin: 0 auto;
+    padding: 0 1.2rem;
+    width: 100%;
+    max-width: $max_width;
+}
